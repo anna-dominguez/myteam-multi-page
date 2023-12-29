@@ -13,9 +13,6 @@ body {
     @apply bg-midnightGreen;
   }
 
-  h3 {
-  }
-
   h4 {
     @apply text-lightCoral;
   }
